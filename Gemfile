@@ -1,7 +1,8 @@
 source 'https://rubygems.org'
 
-gem 'sinatra', '4.0.0'
-gem 'rerun', '0.13.0'
+gem 'sinatra',               '4.0.0'
+gem 'rerun',                 '0.13.0'
+gem 'rafalkesik_palindrome', '0.1.0'
 
 group :test do
     gem 'minitest',           '5.11.3'
